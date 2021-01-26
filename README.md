@@ -6,6 +6,8 @@
 1. Клонировать репозиторий 
 1. Открыть Task_INT20H.ipynb
 
+[Просто посмотреть файл](https://github.com/pashaboyko/Task_INT20H/blob/main/Task_INT20H.ipynb)
+
 ## Результат LTV = 9517.473
 
 ----
