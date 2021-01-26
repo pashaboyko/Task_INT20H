@@ -1,5 +1,7 @@
 # Task_INT20H
 
+![Logo](https://github.com/pashaboyko/Task_INT20H/blob/main/ВеликийSysan.png)
+
 ## Инструкция:
 
 1. Загрузить Jupyter Notebook 
